@@ -1,0 +1,3 @@
+Churn_Label,Customers,Average_Tickets,Average_Satisfaction,Average_Resolution_Time,Customer_Status
+Active,2018,0.8250743310208127,3.915331448319196,17.320078819145888,Not Churned
+Churned,4072,0.8681237721021611,3.869762122598353,18.794113085166384,Churned

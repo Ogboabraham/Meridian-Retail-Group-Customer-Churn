@@ -1,0 +1,221 @@
+product_id,product_name,category,sub_category,brand,unit_cost,unit_price,launch_date,is_active,Price_Level
+PROD1000,Cadence Wellness Classic,Beauty & Personal Care,Wellness,Cadence,152.32,415.24,2023-09-08,Yes,High
+PROD1001,Northfield Cookware Pro,Home & Kitchen,Cookware,Northfield,293.87,645.92,2025-11-10,Yes,High
+PROD1002,Pinecrest Accessories Essential,Apparel,Accessories,Pinecrest,65.78,,2026-03-13,Yes,High
+PROD1003,Vertex Camera Essential,Electronics,Cameras,Vertex,27.0,70.18,2023-02-06,Yes,Low
+PROD1004,Lumen Wellness Plus,Beauty & Personal Care,Wellness,Lumen,242.04,571.72,2025-04-04,Yes,High
+PROD1005,Orion Smartphone Plus,Electronics,Smartphones,Orion,12.15,33.47,2024-06-06,Yes,Low
+PROD1006,Crestline Decor,Home & Kitchen,Decor,Crestline,333.65,540.02,2023-10-29,Yes,High
+PROD1007,Meridian Basics Wellness X,Beauty & Personal Care,Wellness,Meridian Basics,76.0,119.71,2025-07-31,Yes,Low
+PROD1008,Lumen Accessories Pro,Apparel,Accessories,Lumen,124.48,259.81,2026-01-16,Yes,Low
+PROD1009,Nova Cameras X,Electronics,Cameras,Nova,175.05,304.03,2022-06-28,Yes,Low
+PROD1010,Cadence Wellnes X,Beauty & Personal Care,Wellness,Cadence,246.29,371.71,2026-03-25,Yes,Low
+PROD1011,Solstice Small Appliances Lite,Home & Kitchen,Small Appliances,Solstice,119.69,,2023-08-20,Yes,High
+PROD1012,Northfield Cycling Lite,Sports & Outdoors,Cycling,Northfield,184.6,457.4,2022-10-28,Yes,High
+PROD1013,TrueForm Fragrance,Beauty & Personal Care,Fragrance,TrueForm,83.07,172.07,2023-08-28,Yes,Low
+PROD1014,Orion Furniture Essential,Home & Kitchen,Furniture,Orion,238.6,326.8,2026-04-03,Yes,Low
+PROD1015,Lumen Cookware Lite,Home & Kitchen,Cookware,Lumen,244.59,380.53,2022-01-13,Yes,High
+PROD1016,Orion Fitness Equipment Max,Sports & Outdoors,Fitness Equipment,Orion,29.76,81.05,2023-10-18,Yes,Low
+PROD1017,Nova Skincare Lite,Beauty & Personal Care,Skincare,Nova,386.39,970.84,2024-02-08,Yes,High
+PROD1018,Nova Men's Clothing Classic,Apparel,Men's Clothing,Nova,124.63,180.28,2022-12-01,Yes,Low
+PROD1019,Northfield Footwear,Apparel,Footwear,Northfield,274.96,538.98,2023-04-26,Yes,High
+PROD1020,Meridian Basics Furniture Max,Home & Kitchen,Furniture,Meridian Basics,52.33,106.9,2024-05-26,Yes,Low
+PROD1021,Everwood Small Appliances Max,Home & Kitchen,Small Appliances,Everwood,17.62,46.94,2024-06-22,Yes,Low
+PROD1022,Sabre Smart Home Max,Electronics,Smart Home,Sabre,106.48,,2023-01-30,Yes,High
+PROD1023,BrightPath Fragrance Max,Beauty & Personal Care,Fragrance,BrightPath,127.44,265.09,2025-06-05,Yes,Low
+PROD1024,Pinecrest Skincare Classic,Beauty & Personal Care,Skincare,Pinecrest,220.5,,2022-09-04,Yes,High
+PROD1025,Vertex Wellnes,Beauty & Personal Care,Wellness,Vertex,387.96,955.43,2025-01-14,No,High
+PROD1026,Sabre Fragrance X,Beauty & Personal Care,Fragrance,Sabre,376.04,993.59,2023-10-10,Yes,High
+PROD1027,Everwood Fitness Equipment Max,Sports & Outdoors,Fitness Equipment,Everwood,968.91,645.94,2025-02-11,Yes,High
+PROD1028,Everwood Furniture Classic,Home & Kitchen,Furniture,Everwood,39.04,62.23,2021-12-10,Yes,Low
+PROD1029,Northfield Fragrance Pro,Beauty & Personal Care,Fragrance,Northfield,21.91,39.17,2022-01-25,Yes,Low
+PROD1030,Everwood Team Sports Classic,Sports & Outdoors,,Everwood,157.92,269.57,2025-09-02,Yes,Low
+PROD1031,Lumen Cookware Essential,Home & Kitchen,Cookware,Lumen,914.385,609.59,2025-12-17,Yes,High
+PROD1032,Solstice Cycling X,Sports & Outdoors,Cycling,Solstice,115.25,243.64,2024-09-27,Yes,Low
+PROD1033,Crestline Wellness Classic,Beauty & Personal Care,Wellness,Crestline,59.81,149.72,2024-03-07,Yes,Low
+PROD1034,Orion Camping Lite,Sports & Outdoors,Camping,Orion,33.52,93.2,2024-02-27,Yes,Low
+PROD1035,Meridian Basics Women's Clothing Pro,Apparel,Women's Clothing,Meridian Basics,309.81,495.1,2023-08-30,Yes,High
+PROD1036,Amberly Bedding Max,Home & Kitchen,Bedding,Amberly,6.19,15.62,2025-04-19,Yes,Low
+PROD1037,Pinecrest Smart Home Plus,Electronics,Smart Home,Pinecrest,1019.355,679.57,2025-02-05,Yes,High
+PROD1038,Nova Small Appliance Plus,Home & Kitchen,Small Appliances,Nova,309.42,436.61,2023-07-29,Yes,High
+PROD1039,Meridian Basics Smartphones X,Electronics,Smartphones,Meridian Basics,322.65,215.1,2026-04-07,Yes,Low
+PROD1040,Nova Cycling X,Sports & Outdoors,Cycling,Nova,345.79,772.82,2023-10-30,Yes,High
+PROD1041,Solstice Tablets Lite,Electronics,Tablets,Solstice,135.04,188.43,2023-02-22,No,Low
+PROD1042,Nova Fitness Equipment,Sports & Outdoors,Fitness Equipment,Nova,127.15,227.32,2022-07-28,Yes,Low
+PROD1043,BrightPath Men's Clothing Pro,Apparel,Men's Clothing,BrightPath,292.92,660.93,2025-08-29,Yes,High
+PROD1044,Crestline Small Appliances Essential,Home & Kitchen,Small Appliances,Crestline,355.34,713.64,2023-02-06,Yes,High
+PROD1045,Sabre Furniture,Home & Kitchen,Furniture,Sabre,51.36,121.72,2022-11-21,Yes,Low
+PROD1046,Crestline Women's Clothing Essential,Apparel,Women's Clothing,Crestline,305.27,,2023-04-20,Yes,High
+PROD1047,Solstice Footwear Classic,Apparel,Footwear,Solstice,309.3,631.19,2025-07-25,No,High
+PROD1048,Sabre Cookware Pro,Home & Kitchen,Cookware,Sabre,211.0,409.62,2023-08-19,Yes,High
+PROD1049,Vertex Small Appliances X,Home & Kitchen,Small Appliances,Vertex,14.07,20.57,2023-11-30,Yes,Low
+PROD1050,TrueForm Bedding Essential,Home & Kitchen,Bedding,TrueForm,16.45,37.09,2023-03-27,No,Low
+PROD1051,Nova Camping X,Sports & Outdoors,Camping,Nova,128.48,265.04,2025-05-31,Yes,Low
+PROD1052,Orion Haircare Essential,Beauty & Personal Care,Haircare,Orion,363.4,608.31,2025-12-19,No,High
+PROD1053,BrightPath Footwear Essential,Apparel,Footwear,BrightPath,166.51,405.17,2022-06-28,Yes,High
+PROD1054,Vertex Furniture Plus,Home & Kitchen,Furniture,Vertex,94.6,133.9,2024-08-17,No,Low
+PROD1055,Northfield Smartphones X,Electronics,Smartphones,Northfield,118.74,183.08,2022-08-30,No,Low
+PROD1056,TrueForm Haircare Lite,Beauty & Personal Care,Haircare,TrueForm,372.16,934.93,2023-05-31,Yes,High
+PROD1057,Pinecrest Camera Plus,Electronics,Cameras,Pinecrest,254.83,664.39,2024-09-30,Yes,High
+PROD1058,Nova Accessories,Apparel,Accessories,Nova,322.25,509.11,2026-02-26,No,High
+PROD1059,Lumen Team Sports Lite,Sports & Outdoors,Team Sports,Lumen,357.45,753.87,2026-03-29,Yes,High
+PROD1060,Everwood Footwear X,Apparel,Footwear,Everwood,323.75,856.04,2024-08-01,Yes,High
+PROD1061,Meridian Basics Cycling,Sports & Outdoors,Cycling,Meridian Basics,129.93,190.36,2025-04-10,Yes,Low
+PROD1062,Northfield Cookware Essential,Home & Kitchen,Cookware,Northfield,94.26,182.93,2025-06-07,Yes,Low
+PROD1063,Orion Camping Pro,Sports & Outdoors,Camping,Orion,327.93,,2023-03-02,Yes,High
+PROD1064,Sabre Bedding Classic,Home & Kitchen,Bedding,Sabre,6.75,13.95,2024-02-13,Yes,Low
+PROD1065,BrightPath Camping Classic,Sports & Outdoors,Camping,BrightPath,169.29,,2021-09-14,No,High
+PROD1066,Northfield Fragrance Max,Beauty & Personal Care,Fragrance,Northfield,51.47,92.98,2023-01-03,Yes,Low
+PROD1067,Nova Smart Home Max,Electronics,Smart Home,Nova,377.39,673.57,2023-02-22,Yes,High
+PROD1068,Pinecrest Fragrance,Beauty & Personal Care,Fragrance,Pinecrest,209.44,493.13,2022-01-07,Yes,High
+PROD1069,TrueForm Small Appliances X,Home & Kitchen,,TrueForm,148.0,408.14,2025-01-19,Yes,High
+PROD1070,Meridian Basics Bedding Plus,Home & Kitchen,Bedding,Meridian Basics,385.13,646.12,2022-06-15,Yes,High
+PROD1071,Crestline Cycling Plus,Sports & Outdoors,Cycling,Crestline,200.91,351.86,2025-05-25,Yes,Low
+PROD1072,Pinecrest Small Appliances Lite,Home & Kitchen,Small Appliances,Pinecrest,116.8,158.3,2026-03-25,No,Low
+PROD1073,Cadence Skincare Max,Beauty & Personal Care,Skincare,Cadence,245.39,504.04,2024-10-15,Yes,High
+PROD1074,BrightPath Cycling,Sports & Outdoors,Cycling,BrightPath,24.39,,2022-04-24,Yes,High
+PROD1075,BrightPath Fragrance Pro,Beauty & Personal Care,Fragrance,BrightPath,363.67,603.45,2022-09-18,Yes,High
+PROD1076,Lumen Smart Home Essential,Electronics,Smart Home,Lumen,61.38,124.86,2025-01-14,Yes,Low
+PROD1077,TrueForm Women's Clothing Max,Apparel,Women's Clothing,TrueForm,394.32,655.79,2025-08-25,Yes,High
+PROD1078,BrightPath Small Appliances Pro,Home & Kitchen,Small Appliances,BrightPath,270.17,659.87,2024-09-15,Yes,High
+PROD1079,Everwood Headphones,Electronics,Headphones,Everwood,98.1,234.69,2025-09-03,Yes,Low
+PROD1080,Nova Headphones Lite,Electronics,Headphones,Nova,149.64,336.46,2023-10-18,Yes,Low
+PROD1081,Vertex Laptop Lite,Electronics,Laptops,Vertex,254.88,536.18,2025-04-11,Yes,High
+PROD1082,BrightPath Haircare X,Beauty & Personal Care,Haircare,BrightPath,39.75,,2023-11-04,Yes,High
+PROD1083,BrightPath Smart Home Pro,Electronics,Smart Home,BrightPath,131.03,207.0,2021-09-26,Yes,Low
+PROD1084,Lumen Fitness Equipment,Sports & Outdoors,Fitness Equipment,Lumen,20.15,44.05,2026-05-03,Yes,Low
+PROD1085,Amberly Headphones Lite,Electronics,Headphones,Amberly,272.32,,2025-11-09,Yes,High
+PROD1086,Everwood Cycling Plus,Sports & Outdoors,Cycling,Everwood,206.79,339.08,2024-08-23,Yes,Low
+PROD1087,BrightPath Camping Pro,Sports & Outdoors,Camping,BrightPath,259.49,405.21,2025-02-10,Yes,High
+PROD1088,Nova Cycling Essential,Sports & Outdoors,Cycling,Nova,277.61,521.94,2024-08-02,Yes,High
+PROD1089,Cadence Fragrance Essential,Beauty & Personal Care,Fragrance,Cadence,374.95,564.78,2022-05-26,Yes,High
+PROD1090,Everwood Bedding Max,Home & Kitchen,Bedding,Everwood,139.06,204.45,2024-05-15,Yes,Low
+PROD1091,Lumen Smartphones Pro,Electronics,Smartphones,Lumen,370.18,968.39,2022-08-21,Yes,High
+PROD1092,Nova Footwear Essential,Apparel,Footwear,Nova,106.14,243.06,2024-08-02,Yes,Low
+PROD1093,TrueForm Small Appliances Pro,Home & Kitchen,Small Appliances,TrueForm,327.62,698.75,2025-06-03,No,High
+PROD1094,Lumen Women's Clothing Classic,Apparel,Women's Clothing,Lumen,213.74,355.4,2025-09-12,No,Low
+PROD1095,Sabre Cycling X,Sports & Outdoors,Cycling,Sabre,40.87,,2022-01-30,Yes,High
+PROD1096,Pinecrest Accessories,Apparel,Accessories,Pinecrest,360.57,,2023-09-24,Yes,High
+PROD1097,BrightPath Accessories Plus,Apparel,Accessories,BrightPath,138.26,,2025-12-01,Yes,High
+PROD1098,Nova Fragrance Pro,Beauty & Personal Care,Fragrance,Nova,291.48,771.16,2024-01-16,Yes,High
+PROD1099,Orion Tablet,Electronics,Tablets,Orion,355.29,877.5,2023-08-23,Yes,High
+PROD1100,Cadence Cycling Plus,Sports & Outdoors,Cycling,Cadence,258.24,368.3,2025-02-03,Yes,Low
+PROD1101,Pinecrest Camping Lite,Sports & Outdoors,,Pinecrest,68.0,180.05,2024-08-13,Yes,Low
+PROD1102,Northfield Small Appliances Max,Home & Kitchen,Small Appliances,Northfield,244.15,,2024-02-03,Yes,High
+PROD1103,Meridian Basics Camping Lite,Sports & Outdoors,Camping,Meridian Basics,44.18,101.4,2024-04-28,Yes,Low
+PROD1104,Amberly Small Appliances Plus,Home & Kitchen,Small Appliances,Amberly,6.0,9.25,2024-10-20,Yes,Low
+PROD1105,Cadence Cameras,Electronics,Cameras,Cadence,221.3,517.36,2022-09-01,Yes,High
+PROD1106,Orion Team Sport Pro,Sports & Outdoors,Team Sports,Orion,262.18,429.03,2024-11-05,Yes,High
+PROD1107,Lumen Men's Clothing Plus,Apparel,Men's Clothing,Lumen,286.02,473.61,2022-09-19,Yes,High
+PROD1108,Meridian Basics Camping Classic,Sports & Outdoors,Camping,Meridian Basics,132.86,321.49,2023-10-17,Yes,Low
+PROD1109,Vertex Decor Max,Home & Kitchen,Decor,Vertex,261.25,,2023-10-18,No,High
+PROD1110,Amberly Skincare Pro,Beauty & Personal Care,Skincare,Amberly,264.41,569.13,2023-07-19,Yes,High
+PROD1111,Everwood Wellness Plus,Beauty & Personal Care,Wellness,Everwood,41.1,76.1,2022-01-17,No,Low
+PROD1112,Meridian Basics Footwear Pro,Apparel,Footwear,Meridian Basics,109.02,181.63,2024-03-01,Yes,Low
+PROD1113,Northfield Wellness X,Beauty & Personal Care,Wellness,Northfield,389.31,735.66,2024-08-23,Yes,High
+PROD1114,Vertex Tablet Max,Electronics,Tablets,Vertex,357.25,802.64,2024-11-21,Yes,High
+PROD1115,Vertex Haircare,Beauty & Personal Care,Haircare,Vertex,318.75,,2026-01-21,Yes,High
+PROD1116,Amberly Fragrance Classic,Beauty & Personal Care,,Amberly,232.45,473.91,2024-10-30,Yes,High
+PROD1117,Orion Men's Clothing Max,Apparel,,Orion,81.32,193.84,2024-08-05,Yes,Low
+PROD1118,Pinecrest Smartphones Classic,Electronics,Smartphones,Pinecrest,115.19,153.95,2024-01-10,Yes,Low
+PROD1119,Crestline Fragrance Max,Beauty & Personal Care,Fragrance,Crestline,259.61,406.46,2024-01-29,Yes,High
+PROD1120,Northfield Cycling,Sports & Outdoors,Cycling,Northfield,376.42,1027.96,2023-03-04,Yes,High
+PROD1121,Vertex Team Sport,Sports & Outdoors,Team Sports,Vertex,1019.34,679.56,2025-07-20,Yes,High
+PROD1122,Solstice Headphones Essential,Electronics,Headphones,Solstice,10.12,27.25,2022-09-22,Yes,Low
+PROD1123,Orion Accessorie Max,Apparel,Accessories,Orion,173.56,477.29,2024-01-31,Yes,High
+PROD1124,Crestline Smart Home Essential,Electronics,Smart Home,Crestline,385.59,994.63,2025-03-30,Yes,High
+PROD1125,Northfield Team Sports Pro,Sports & Outdoors,Team Sports,Northfield,120.6,226.44,2022-06-22,Yes,Low
+PROD1126,Orion Laptops Essential,Electronics,Laptops,Orion,341.05,605.49,2025-08-05,Yes,High
+PROD1127,Solstice Accessories Plus,Apparel,Accessories,Solstice,71.12,151.86,2025-11-08,Yes,Low
+PROD1128,Pinecrest Haircare Lite,Beauty & Personal Care,Haircare,Pinecrest,374.72,878.36,2022-09-27,Yes,High
+PROD1129,Northfield Cameras Classic,Electronics,Cameras,Northfield,229.74,332.15,2022-11-21,Yes,Low
+PROD1130,Nova Haircare,Beauty & Personal Care,,Nova,247.54,689.42,2023-08-11,Yes,High
+PROD1131,Vertex Bedding Plus,Home & Kitchen,Bedding,Vertex,59.47,123.55,2025-12-04,No,Low
+PROD1132,Pinecrest Haircare Essential,Beauty & Personal Care,Haircare,Pinecrest,351.44,,2024-09-03,No,High
+PROD1133,Meridian Basics Smart Home Essential,Electronics,Smart Home,Meridian Basics,280.02,659.09,2024-06-21,Yes,High
+PROD1134,Meridian Basics Cycling Essential,Sports & Outdoors,Cycling,Meridian Basics,146.36,254.72,2021-10-30,Yes,Low
+PROD1135,Everwood Furniture X,Home & Kitchen,Furniture,Everwood,324.51,816.2,2023-04-12,Yes,High
+PROD1136,Everwood Wellnes Lite,Beauty & Personal Care,Wellness,Everwood,347.36,927.4,2025-07-11,Yes,High
+PROD1137,Northfield Camping X,Sports & Outdoors,Camping,Northfield,206.49,423.77,2021-09-24,Yes,High
+PROD1138,Nova Cookware Max,Home & Kitchen,Cookware,Nova,320.12,728.26,2023-04-09,Yes,High
+PROD1139,Meridian Basics Men's Clothing,Apparel,Men's Clothing,Meridian Basics,281.98,,2025-11-19,Yes,High
+PROD1140,TrueForm Furniture Classic,Home & Kitchen,Furniture,TrueForm,356.44,644.08,2026-05-05,Yes,High
+PROD1141,Pinecrest Smart Home X,Electronics,Smart Home,Pinecrest,152.73,220.08,2023-05-12,Yes,Low
+PROD1142,Everwood Women's Clothing Plus,Apparel,Women's Clothing,Everwood,233.0,315.46,2024-06-04,No,Low
+PROD1143,TrueForm Bedding Lite,Home & Kitchen,Bedding,TrueForm,188.38,398.23,2023-11-02,No,High
+PROD1144,Amberly Camping Pro,Sports & Outdoors,Camping,Amberly,117.47,256.82,2023-01-09,Yes,Low
+PROD1145,Pinecrest Small Appliance Plus,Home & Kitchen,Small Appliances,Pinecrest,16.08,21.8,2024-01-26,Yes,Low
+PROD1146,Everwood Fitness Equipment,Sports & Outdoors,Fitness Equipment,Everwood,329.75,606.83,2022-01-27,Yes,High
+PROD1147,Nova Headphone Pro,Electronics,Headphones,Nova,54.32,113.17,2023-07-03,Yes,Low
+PROD1148,Solstice Camping Plus,Sports & Outdoors,Camping,Solstice,308.92,501.6,2022-10-21,Yes,High
+PROD1149,Sabre Accessories Plus,Apparel,Accessories,Sabre,250.66,357.95,2022-02-15,Yes,Low
+PROD1150,Pinecrest Skincare Classic,Beauty & Personal Care,Skincare,Pinecrest,24.47,51.31,2022-05-22,Yes,Low
+PROD1151,Sabre Headphone Pro,Electronics,Headphones,Sabre,218.09,492.04,2024-06-19,Yes,High
+PROD1152,Vertex Smartphone Lite,Electronics,Smartphones,Vertex,291.53,805.72,2025-08-27,Yes,High
+PROD1153,Amberly Men's Clothing Pro,Apparel,Men's Clothing,Amberly,208.45,371.97,2022-01-07,Yes,Low
+PROD1154,Crestline Decor Plus,Home & Kitchen,Decor,Crestline,318.89,544.11,2025-08-16,Yes,High
+PROD1155,BrightPath Skincare Lite,Beauty & Personal Care,Skincare,BrightPath,177.83,252.11,2026-01-07,Yes,Low
+PROD1156,Amberly Camping Classic,Sports & Outdoors,Camping,Amberly,14.04,38.53,2023-05-02,Yes,Low
+PROD1157,Amberly Team Sports Plus,Sports & Outdoors,Team Sports,Amberly,335.05,785.34,2024-08-27,Yes,High
+PROD1158,Pinecrest Accessories Plus,Apparel,Accessories,Pinecrest,165.95,258.87,2025-10-23,Yes,Low
+PROD1159,Vertex Haircare Essential,Beauty & Personal Care,Haircare,Vertex,65.95,110.49,2024-07-11,No,Low
+PROD1160,Amberly Wellness Pro,Beauty & Personal Care,Wellness,Amberly,221.49,,2024-08-08,No,High
+PROD1161,Amberly Skincare,Beauty & Personal Care,,Amberly,265.44,456.53,2025-01-07,Yes,High
+PROD1162,Crestline Smart Home Pro,Electronics,,Crestline,382.13,919.73,2023-02-10,Yes,High
+PROD1163,Pinecrest Small Appliances Essential,Home & Kitchen,Small Appliances,Pinecrest,223.52,495.67,2023-02-19,Yes,High
+PROD1164,Cadence Smart Home Essential,Electronics,Smart Home,Cadence,170.16,284.44,2026-02-26,Yes,Low
+PROD1165,Solstice Smartphones Plus,Electronics,Smartphones,Solstice,144.97,,2023-12-08,Yes,High
+PROD1166,TrueForm Haircare,Beauty & Personal Care,Haircare,TrueForm,9.7,14.3,2022-11-23,Yes,Low
+PROD1167,Lumen Tablets Essential,Electronics,,Lumen,22.22,30.24,2022-08-21,Yes,Low
+PROD1168,Cadence Cycling Classic,Sports & Outdoors,Cycling,Cadence,342.76,807.37,2022-12-18,No,High
+PROD1169,Lumen Cycling,Sports & Outdoors,Cycling,Lumen,191.77,277.44,2024-02-15,Yes,Low
+PROD1170,Cadence Accessories Max,Apparel,Accessories,Cadence,599.085,399.39,2023-01-16,Yes,High
+PROD1171,Nova Skincare,Beauty & Personal Care,Skincare,Nova,72.59,141.61,2022-12-11,Yes,Low
+PROD1172,Vertex Camping Max,Sports & Outdoors,Camping,Vertex,161.81,359.83,2022-04-16,Yes,Low
+PROD1173,BrightPath Small Appliance,Home & Kitchen,Small Appliances,BrightPath,255.5,,2025-12-10,Yes,High
+PROD1174,TrueForm Tablet,Electronics,Tablets,TrueForm,152.35,341.08,2021-10-16,Yes,Low
+PROD1175,Cadence Cycling Pro,Sports & Outdoors,Cycling,Cadence,203.24,525.32,2024-12-07,Yes,High
+PROD1176,Amberly Fragrance Essential,Beauty & Personal Care,Fragrance,Amberly,264.84,409.02,2025-06-08,Yes,High
+PROD1177,Orion Women's Clothing,Apparel,Women's Clothing,Orion,31.95,72.32,2023-12-25,No,Low
+PROD1178,Orion Small Appliance Pro,Home & Kitchen,Small Appliances,Orion,14.5,31.59,2024-01-26,Yes,Low
+PROD1179,Meridian Basics Wellness Lite,Beauty & Personal Care,Wellness,Meridian Basics,376.33,814.08,2022-05-31,Yes,High
+PROD1180,Crestline Skincare Lite,Beauty & Personal Care,Skincare,Crestline,157.72,357.23,2024-11-04,Yes,Low
+PROD1181,Sabre Footwear,Apparel,Footwear,Sabre,185.47,392.9,2026-03-18,Yes,High
+PROD1182,Pinecrest Cookware Max,Home & Kitchen,Cookware,Pinecrest,376.82,708.1,2026-02-12,Yes,High
+PROD1183,BrightPath Cameras Plus,Electronics,Cameras,BrightPath,384.63,1022.36,2023-09-23,Yes,High
+PROD1184,Solstice Skincare Lite,Beauty & Personal Care,Skincare,Solstice,81.53,114.47,2024-05-15,Yes,Low
+PROD1185,TrueForm Laptop Classic,Electronics,Laptops,TrueForm,43.91,58.28,2022-05-25,Yes,Low
+PROD1186,Lumen Smart Home,Electronics,Smart Home,Lumen,41.4,96.23,2023-01-18,Yes,Low
+PROD1187,Meridian Basics Fitness Equipment Classic,Sports & Outdoors,Fitness Equipment,Meridian Basics,32.19,57.25,2024-05-24,Yes,Low
+PROD1188,Orion Team Sport,Sports & Outdoors,Team Sports,Orion,338.57,451.96,2024-08-15,Yes,High
+PROD1189,BrightPath Furniture X,Home & Kitchen,Furniture,BrightPath,326.53,562.54,2025-10-16,Yes,High
+PROD1190,Amberly Camping Max,Sports & Outdoors,Camping,Amberly,50.79,119.11,2022-01-09,Yes,Low
+PROD1191,Amberly Smart Home Plus,Electronics,Smart Home,Amberly,253.06,662.06,2023-01-25,Yes,High
+PROD1192,Cadence Bedding Lite,Home & Kitchen,Bedding,Cadence,295.09,739.27,2025-07-14,Yes,High
+PROD1193,Crestline Wellness,Beauty & Personal Care,Wellness,Crestline,115.69,181.19,2022-09-18,Yes,Low
+PROD1194,Lumen Small Appliance Essential,Home & Kitchen,Small Appliances,Lumen,301.24,756.19,2026-01-15,Yes,High
+PROD1195,Meridian Basics Headphones Plus,Electronics,Headphones,Meridian Basics,396.24,760.36,2025-12-09,Yes,High
+PROD1196,Orion Camera X,Electronics,Cameras,Orion,151.32,372.95,2023-04-30,Yes,Low
+PROD1197,TrueForm Haircare Pro,Beauty & Personal Care,Haircare,TrueForm,138.96,374.66,2024-01-14,Yes,High
+PROD1198,Lumen Smart Home Pro,Electronics,Smart Home,Lumen,343.93,668.42,2024-11-04,Yes,High
+PROD1199,Orion Smartphones Essential,Electronics,Smartphones,Orion,301.34,732.8,2022-05-07,Yes,High
+PROD1200,Everwood Smartphones Plus,Electronics,Smartphones,Everwood,44.84,119.0,2024-07-18,Yes,Low
+PROD1201,Vertex Camera,Electronics,Cameras,Vertex,204.08,518.3,2025-08-13,No,High
+PROD1202,Amberly Men's Clothing Essential,Apparel,Men's Clothing,Amberly,130.74,345.58,2024-02-10,Yes,Low
+PROD1203,Amberly Footwear X,Apparel,Footwear,Amberly,158.12,,2022-07-14,Yes,High
+PROD1204,Lumen Small Appliance X,Home & Kitchen,Small Appliances,Lumen,362.53,520.93,2023-05-30,Yes,High
+PROD1205,Sabre Cameras Classic,Electronics,,Sabre,130.45,355.49,2023-11-15,Yes,Low
+PROD1206,Meridian Basics Laptops Max,Electronics,,Meridian Basics,380.44,821.81,2024-02-11,Yes,High
+PROD1207,Vertex Bedding Max,Home & Kitchen,Bedding,Vertex,254.21,501.47,2025-07-25,Yes,High
+PROD1208,Northfield Accessorie,Apparel,Accessories,Northfield,120.11,215.36,2023-06-17,No,Low
+PROD1209,Northfield Women's Clothing Lite,Apparel,Women's Clothing,Northfield,270.32,656.49,2022-05-18,No,High
+PROD1210,Orion Men's Clothing Plus,Apparel,Men's Clothing,Orion,317.47,788.73,2025-12-30,Yes,High
+PROD1211,Amberly Bedding,Home & Kitchen,Bedding,Amberly,40.12,81.91,2026-03-25,Yes,Low
+PROD1212,BrightPath Team Sports,Sports & Outdoors,Team Sports,BrightPath,26.79,56.91,2024-07-17,Yes,Low
+PROD1213,Amberly Smartphone X,Electronics,Smartphones,Amberly,178.85,470.65,2023-04-01,Yes,High
+PROD1214,Amberly Accessories Plus,Apparel,Accessories,Amberly,142.96,210.95,2024-04-03,Yes,Low
+PROD1215,Northfield Women's Clothing Pro,Apparel,Women's Clothing,Northfield,60.62,148.05,2022-11-20,Yes,Low
+PROD1216,Northfield Women's Clothing Plus,Apparel,Women's Clothing,Northfield,248.81,361.19,2025-09-06,Yes,Low
+PROD1217,Everwood Men's Clothing Essential,Apparel,Men's Clothing,Everwood,37.31,87.73,2024-06-10,No,Low
+PROD1218,BrightPath Haircare Classic,Beauty & Personal Care,Haircare,BrightPath,32.81,83.1,2023-07-06,Yes,Low
+PROD1219,Orion Cycling Max,Sports & Outdoors,Cycling,Orion,283.67,403.39,2024-04-30,Yes,High
